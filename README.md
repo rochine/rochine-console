@@ -55,3 +55,9 @@ git clone https://github.com/rochine/rochine-console
 cd rochine-console
 npm install
 npm run dev
+
+## Links
+- Console: https://console.rochine.tech/
+- Docs: https://docs.rochine.tech/
+- Web:  https://www.rochine.tech/
+

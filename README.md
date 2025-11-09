@@ -48,6 +48,12 @@ From one interface, users can:
 - **Security:** Zero-Trust verification via Rochine Lab protocols
 
 ---
+## Links
+- Console: https://console.rochine.tech/
+- Docs: https://docs.rochine.tech/
+- Web:  https://www.rochine.tech/
+
+---
 
 ### 🚀 Development
 ```bash
@@ -56,8 +62,5 @@ cd rochine-console
 npm install
 npm run dev
 
-## Links
-- Console: https://console.rochine.tech/
-- Docs: https://docs.rochine.tech/
-- Web:  https://www.rochine.tech/
+
 
